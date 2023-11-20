@@ -1,0 +1,30 @@
+0101, Nyarugenge,01,Kigali City
+0102,Gasabo,01,Kigali City
+0103,Kicukiro,01,Kigali City
+0201,Nyanza,02,South
+0202,Gisagara,02,South
+0203,Nyaruguru,02,South
+0204,Huye,02,South
+0205,Nyamagabe,02,South
+0206,Ruhango,02,South
+0207,Muhanga,02,South
+0208,Kamonyi,02,South
+0301,Karongi,03,South
+0302,Rutsiro,03,West
+0303,Rubavu,03,West
+0304,Nyabihu,03,West
+0305,Ngororero,03,West
+0306,Rusizi,03,West
+0307,Nyamasheke,03,West
+0401,Rulindo,04,North
+0402,Gakenke,04,North
+0403,Musanze,04,North
+0404,Burera,04,North
+0405,Gicumbi,04,East
+0501,Rwamagana,05,East
+0502,Nyagatare,05,East
+0503,Gatsibo,05,East
+0504,Kayonza,05,East
+0505,Kirehe,05,East
+0506,Ngoma,05,East
+0507,Bugesera,05,East
